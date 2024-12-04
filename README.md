@@ -86,13 +86,15 @@ Ensure the following are set up in your environment:
 ## Screenshots
 Below are some screenshots of the app in action:
 
-![Login Screen](https://github.com/user-attachments/assets/your-screenshot-link)
+![Login Screen](https://github.com/user-attachments/assets/65e8dd8e-04b8-4ef3-8a26-f9f0ea262ccd)
 
-![Account List](https://github.com/user-attachments/assets/your-screenshot-link)
+![Account List](https://github.com/user-attachments/assets/1b6a27f7-c440-4426-9a02-78d93a2494f0)
 
-![Transfer Form](https://github.com/user-attachments/assets/your-screenshot-link)
+![Transfer Form](https://github.com/user-attachments/assets/b68f6d7e-7f8f-4a2f-9843-15f8b2924aec)
 
-![Transaction History](https://github.com/user-attachments/assets/your-screenshot-link)
+![Transfer Summary](https://github.com/user-attachments/assets/8bb7308b-0af3-498d-8c2b-0db811ded12d)
+
+![Transaction History](https://github.com/user-attachments/assets/14990a15-320d-47f0-9fb3-c9ef848ce7f1)
 
 ## Future Enhancements
 * Integrate real-time data fetching using a backend API.
