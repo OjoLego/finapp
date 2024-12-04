@@ -1,0 +1,79 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Header Text -->
+    <TextView
+        android:id="@+id/transferHeaderText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Transfer"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:paddingBottom="24dp"
+        android:textColor="@color/black" />
+
+    <!-- Label for Source Account -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Source Account"
+        android:textSize="16sp"
+        android:paddingBottom="4dp"
+        android:textColor="@android:color/holo_green_dark"/>
+
+    <!-- Spinner for Source Account -->
+    <Spinner
+        android:id="@+id/spinnerSourceAccount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textColor="@android:color/darker_gray"/>
+
+    <!-- Label for Destination Account -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Destination Account"
+        android:textSize="16sp"
+        android:paddingTop="16dp"
+        android:paddingBottom="4dp"
+        android:textColor="@android:color/holo_green_dark"/>
+
+    <!-- Spinner for Destination Account -->
+    <Spinner
+        android:id="@+id/spinnerDestinationAccount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textColor="@android:color/darker_gray"/>
+
+    <!-- Label for Amount -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter Amount"
+        android:textSize="16sp"
+        android:paddingTop="16dp"
+        android:paddingBottom="4dp" />
+
+    <!-- EditText for Amount -->
+    <EditText
+        android:id="@+id/editTextAmount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Amount"
+        android:inputType="numberDecimal" />
+
+    <!-- Confirm Transfer Button -->
+    <Button
+        android:id="@+id/buttonConfirmTransfer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Confirm Transfer"
+        android:layout_marginTop="16dp" />
+</LinearLayout>
