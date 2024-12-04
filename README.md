@@ -1,7 +1,7 @@
-# Android Developer Assessment Task
+# FinApp
 
 ## Project Overview
-This project is an Android application developed for a technical assessment. The primary goal is to create an app simulating the transfer of money between different accounts within the app, showcasing the developer's ability to manage authentication, data handling, UI/UX design, and overall Android development.
+This project is an Android application developed for a technical assessment. The primary goal is to create an app simulating the transfer of money between different accounts within the app, showcasing my ability to manage authentication, data handling, UI/UX design, and overall Android development.
 
 ## Objective
 The assessment evaluates the ability to implement core fintech features, manage local data storage, and create an engaging user experience. Key components include:
@@ -27,6 +27,9 @@ The app uses **LiveData** to observe and react to data changes, ensuring the UI 
 
 ## Data Integration
 Mock data is utilized for demonstration purposes. The **Room database** is used for local transaction history storage, providing a realistic setup for data handling.
+
+## Unit test
+ Unit tests for critical features and components.
 
 ## Libraries and Dependencies
 The following libraries are used in this project:
@@ -82,5 +85,4 @@ Below are some screenshots of the app in action:
 * Integrate real-time data fetching using a backend API.
 * Implement user authentication and profile management.
 * Enhance app responsiveness and optimization for various screen sizes.
-* Add unit tests for critical features and components.
 
