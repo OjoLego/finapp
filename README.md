@@ -39,6 +39,16 @@ The following libraries are used in this project:
 * **LiveData**: For managing real-time data observation.
 * **ViewModel**: For handling UI-related data.
 
+## Firebase Authentication Details
+
+This application uses Firebase Authentication for the login feature. Since the app doesn't include a registration section, two pre-registered accounts are provided for testing:
+
+Email: fintechapp@gmail.com | Password: fintech
+
+Email: davido@example.com | Password: 123456
+
+Please use these credentials to log in.
+
 ## Installation Instructions
 To run this project locally, follow these steps:
 
