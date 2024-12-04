@@ -111,6 +111,7 @@ class TransferActivity : AppCompatActivity() {
                     timestamp = System.currentTimeMillis()
                 )
                 historyViewModel.insertTransaction(transaction)
+                Toast.makeText(this, "Transfer Successful", Toast.LENGTH_SHORT).show()
                 val resultIntent = Intent()
                 resultIntent.putParcelableArrayListExtra("updatedAccounts", ArrayList(viewModel.accounts))
                 setResult(RESULT_OK, resultIntent)
