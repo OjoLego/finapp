@@ -39,6 +39,9 @@ The following libraries are used in this project:
 * **LiveData**: For managing real-time data observation.
 * **ViewModel**: For handling UI-related data.
 
+## Download APK
+You can download the latest APK file from this [Google Drive link](https://drive.google.com/file/d/1VanPeiRZQ_XeJh3oC-zH7a4_MVh_aX8q/view?usp=sharing).
+
 ## Firebase Authentication Details
 
 This application uses Firebase Authentication for the login feature. Since the app doesn't include a registration section, two pre-registered accounts are provided for testing:
