@@ -46,7 +46,7 @@ You can download the latest APK file from this [Google Drive link](https://drive
 
 This application uses Firebase Authentication for the login feature. Since the app doesn't include a registration section, two pre-registered accounts are provided for testing:
 
-Email: fintechapp@gmail.com | Password: fintech
+Email: fintechapp@gmail.com | Password: fintechapp 
 
 Email: davido@gmail.com | Password: 123456
 
