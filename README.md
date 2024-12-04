@@ -98,6 +98,6 @@ Below are some screenshots of the app in action:
 
 ## Future Enhancements
 * Integrate real-time data fetching using a backend API.
-* Implement user authentication and profile management.
+* Implement profile management.
 * Enhance app responsiveness and optimization for various screen sizes.
 
