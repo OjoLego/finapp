@@ -40,7 +40,7 @@ The following libraries are used in this project:
 * **ViewModel**: For handling UI-related data.
 
 ## Download APK
-You can download the latest APK file from this [Google Drive link](https://drive.google.com/file/d/1VanPeiRZQ_XeJh3oC-zH7a4_MVh_aX8q/view?usp=sharing).
+You can download the latest APK file from this [Google Drive link](https://drive.google.com/file/d/1vEC5VsVB1UVWMX5EpqwI0z_pOyBN0CdW/view?usp=sharing).
 
 ## Firebase Authentication Details
 
