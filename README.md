@@ -48,7 +48,7 @@ This application uses Firebase Authentication for the login feature. Since the a
 
 Email: fintechapp@gmail.com | Password: fintech
 
-Email: davido@example.com | Password: 123456
+Email: davido@gmail.com | Password: 123456
 
 Please use these credentials to log in.
 
